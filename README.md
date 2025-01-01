@@ -30,7 +30,7 @@ pip install pygame
 
 ## Screenshots
 
-<img src="https://i.imgur.com/on4G9W2.png" alt="Main Screen" width="200"> <img src="https://i.imgur.com/b50YjL7.png" alt="Gameplay" width="200">
+<img src="https://i.imgur.com/on4G9W2.png" alt="Main Screen" width="300"> <img src="https://i.imgur.com/b50YjL7.png" alt="Gameplay" width="300">
 
 
 ## Repository Structure
