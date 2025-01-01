@@ -38,7 +38,6 @@ pip install pygame
 - `gallery/`: Contains all assets used in the game.
   - `audio/`: Sound files for game effects.
   - `sprites/`: Image files for the bird, pipes, and background.
-- `screenshots/`: Folder containing screenshots of the game.
 
 ## Acknowledgments
 This project uses the Pygame library, an excellent tool for creating 2D games in Python. Learn more about Pygame [here](https://www.pygame.org/).
